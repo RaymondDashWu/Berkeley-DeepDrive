@@ -1,0 +1,12 @@
+traffic_light
+traffic_sign
+car
+drivable_area
+lane
+person
+bus
+truck
+rider
+bike
+motor
+train
