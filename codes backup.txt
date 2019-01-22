@@ -1,0 +1,18 @@
+traffic_light | 239 172 68
+traffic_sign | 220 218 72
+car | 0 14 136
+drivable_area | 120 69 125
+lane | 84 130 176
+person | 202 49 66
+bus | 21 60 97
+truck | 0 3 67
+rider
+bike | 109 24 35
+motor | 0 3 221
+train | 31 79 98
+void | 0 0 0
+
+
+=======
+traffic_pole | 153 153 153
+foliage | 114 140 54

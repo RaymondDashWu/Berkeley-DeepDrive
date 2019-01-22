@@ -1,13 +1,14 @@
-traffic_light
-traffic_sign
-car
-drivable_area
-lane
-person
-bus
-truck
-rider
-bike
-motor
-train
-void
+239 172 68	traffic_light
+220 218 72	traffic_sign
+0 14 136	car
+120 69 125	drivable_area
+84 130 176	lane
+202 49 66	person
+21 60 97	bus
+0 3 67		truck
+109 24 35	bike
+0 3 221		motor
+31 79 98	train
+0 0 0		void
+153 153 153	traffic_pole
+114 140 54	foliage
