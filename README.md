@@ -1,6 +1,9 @@
 # Berkeley DeepDrive Image Segmentation Attempt
 ## Work in Progress
 
+This was my attempt to create an image segmentation model using Berkeley's DeepDrive dataset. A more complete writeup documenting the journey can be found in my medium post.
+https://medium.com/p/308f8c44305a/edit
+
 The original dataset can be downloaded here:
 https://bdd-data.berkeley.edu/
 
