@@ -20,6 +20,10 @@ From there Berkeley DeepDrive v2.ipynb should run. v1 was created using an earli
 ### Included
 label_quantify.py
 * Was used to determine how many categories there were. Companion to test_label_quantify.json
+
+seg_128 folder
+* A 128x128 bordered version of the segmentation dataset used to train ResNet34. Could be used as a quick reference to try deeper ResNet or other pretrained models.
+
 ### Task list
 - [X] Implement U-Net
 - [ ] Implement 100-layer Tiramisu
